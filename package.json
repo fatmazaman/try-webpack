@@ -1,0 +1,17 @@
+{
+  "name": "try-webpack",
+  "version": "1.0.0",
+  "description": "trying webpack through udemy",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Fatma Zaman",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^2.2.0-rc.0"
+  },
+  "dependencies": {
+    "latest-version": "^2.0.0"
+  }
+}
