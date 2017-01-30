@@ -17,3 +17,7 @@ Webpack
 * Deployment with Surge
 * Deployment with Github Pages
 * Deployment with Amazon S3
+* WebpackMiddleWare
+* Webpack in production
+* Deployment with Heroku
+* Deployment with EC2(AWS)
