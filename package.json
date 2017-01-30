@@ -6,6 +6,7 @@
   "scripts": {
     "build": "webpack"
   },
+  "repository": " https://github.com/fatmazaman/try-webpack",
   "author": "Fatma Zaman",
   "license": "ISC",
   "devDependencies": {

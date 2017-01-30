@@ -10,3 +10,10 @@ Webpack
 * Handling CSS with Webpack( style/css loader)
 * Handling Images with Webpack (image-webpack-loader)
 * Code Splitting through System import calls ( on demand code loading)
+* Vendor Asset cashing
+* Troubleshooting Vendor Bundles
+* Chunk Hashing for Cache Busting
+* Webpack Dev Server
+* Deployment with Surge
+* Deployment with Github Pages
+* Deployment with Amazon S3
